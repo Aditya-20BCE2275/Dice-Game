@@ -10,6 +10,15 @@
 
 }
 
+.diceRoll{
+  background-color: hsl(160, 55%, 25%);
+  border-radius: 20px;
+  text-align:center
+}
+.diceRoll:hover{
+  background-color: hsl(160, 55%, 35%);
+}
+
 body {
   background-color: #393E46;
 }
